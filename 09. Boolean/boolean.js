@@ -1,6 +1,6 @@
-const boolean = Boolean(true);
+const boolean = Boolean(true); // create a Boolean object
 
-console.info(boolean);
-console.info(typeof boolean);
-console.info(boolean.toString());
-console.info(boolean.valueOf());
+console.info(boolean); // true
+console.info(typeof boolean); // boolean
+console.info(boolean.toString()); // true
+console.info(boolean.valueOf()); // true
